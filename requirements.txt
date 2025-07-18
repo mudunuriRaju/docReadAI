@@ -4,4 +4,11 @@ python-multipart
 google-generativeai
 python-dotenv
 langchain
-textract
+pypdf
+python-docx
+pydocx
+beautifulsoup4
+lxml
+pdf2image
+pytesseract
+Pillow
